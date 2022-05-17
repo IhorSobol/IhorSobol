@@ -6,7 +6,7 @@
 
 ### What I do:
 
-* I am developing user interfaces. I follow the best practices in 1 and in fe.
+* I am developing user interfaces. I follow the best practices in UX and in FrontEnd.
 * I also like to make interfaces accessible to search engines (sematic layout) and to people (accessibility).
 
 ### Connect with me:
