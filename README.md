@@ -10,8 +10,6 @@
 * I also like to make interfaces accessible to search engines (sematic layout) and to people (accessibility).
 
 ### Connect with me:
-
-[<img align="left" alt="Sobol | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sobol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
